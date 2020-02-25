@@ -1,0 +1,9 @@
+Dear {customer_name}, you get voucher for discount in the shop : {shop_name}:
+
+{firsttext} {discountvalue}
+
+{secondtext} {voucher_code}
+
+{threetext} {date_until}
+
+Your {shop_name} [{shop_url}] team

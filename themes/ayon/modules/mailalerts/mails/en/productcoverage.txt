@@ -1,0 +1,14 @@
+
+[{shop_url}] 
+
+Stock Management 
+
+{product} is almost out of stock. 
+
+The stock cover is now less than the specified minimum of:
+{warning_coverage}.
+
+CURRENT STOCK COVER: {current_coverage} 
+
+{shop_name} [{shop_url}]
+

@@ -1,0 +1,20 @@
+[{shop_url}]
+
+Hi,{user}
+
+Your Question
+
+Regarding your question submission, we are inform you that question: {question}
+
+Added on: {date}
+
+Was received in our system and will be online in the next few hours.
+
+Your login data access in our website questions and answers area is:
+
+Username: {user}
+
+E-mail Address: {your_email}
+
+{shop_name}
+

@@ -1,0 +1,20 @@
+[{shop_url}]
+
+Hi,{user}
+
+New answer for your question
+
+A new response has been posted to your question: {question}
+
+New answer is: {answer}
+
+For more details click on the link below:
+{q_url}
+
+Your login data access in our website questions and answers area is:
+
+Username: {user}
+
+E-mail Address: This one,where you received this email.
+
+{shop_name}

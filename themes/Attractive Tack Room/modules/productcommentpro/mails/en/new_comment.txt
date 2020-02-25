@@ -1,0 +1,13 @@
+
+[{shop_url}] 
+
+Hello {nickname}
+
+Someone left a comment on your product: 
+{link}
+
+comment: 
+{comment}
+
+
+{shop_name} [{shop_url}].

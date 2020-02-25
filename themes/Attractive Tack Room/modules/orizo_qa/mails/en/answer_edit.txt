@@ -1,0 +1,15 @@
+[{shop_url}]
+
+Hi,{user}
+
+Your Answer
+
+We are inform you that your answer: {old_answer}.
+
+Added on: {added_date}
+
+Was been modified by our staff. On {modify_date}.
+
+New question is: {answer}.
+
+{shop_name}

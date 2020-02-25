@@ -1,0 +1,185 @@
+#account-creation_form .id_state,
+#account-creation_form .dni,
+#account-creation_form .postcode {
+  display: none; }
+
+#account-creation_form .required.form-group input {
+ background: #f3f3f3!important;
+ border: none!important;
+ }
+
+#create-account_form {
+  min-height: 350px; }
+  #create-account_form p {
+    font-size:14px;
+    margin-bottom: 30px; }
+  #create-account_form .form-group {
+    margin: 40px 0; }
+    @media (max-width:479px) {
+        #login_form .form-group.lost_password {
+            margin-top:0!important;
+            margin-bottom:16px!important;
+        }
+        #create-account_form .button.bright, #login_form .button.bright {
+/*             width:100%!important; */
+            padding:16px 30px;
+        }
+    }
+
+#login_form {
+  min-height: 370px; }
+  #login_form .form-group {
+    margin: 20px auto;
+    }
+    #login_form .submit {
+      margin: 16px 0 0 0; }
+    #login_form .form-group.lost_password {
+      display:block;
+      float:right;
+      margin: 30px 0 0 0; }
+      #login_form .form-group.lost_password a {
+        text-decoration: underline; }
+        #login_form .form-group.lost_password a:hover {
+          text-decoration: none; }
+
+#login_form.form-control, #create-account_form.form-control {
+  max-width: 271px; }
+
+#authentication .columns-container-middle {
+    position: relative;
+}
+.au-register, .au-login {
+  position:static!important;
+}
+ .au-login{/* background: #fafafa; */border-radius: 8px;padding: 10px;}
+#authentication #center_column {
+  position:static!important;
+}
+#authentication .columns-container-middle #create-account_form:before {
+    width:100%;
+    content:' ';
+    background:#ffffff;
+    left:0;
+    top:0;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+}
+#authentication .columns-container-middle #login_form:before {
+    width:50%;
+    content:' ';
+
+    right:0;
+    top:0;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+}
+#authentication .columns-container-middle .page-heading {
+  display:none;
+}
+#authentication .columns-container-middle .box {
+  border:none!important;
+  /* background: #f7f7f7; */
+}
+#authentication .columns-container-middle #create-account_form {
+    width: 70%;
+    float: none;
+}
+#authentication .columns-container-middle #login_form {
+ 
+     width: 70%;
+    float: none;
+}
+#authentication .columns-container-middle #login_form #email {
+  margin-bottom:16px;
+  max-width: 300px;
+  margin: auto;
+  border: none;
+}
+#authentication .columns-container-middle #login_form #passwd {
+  margin-bottom:30px;
+      max-width: 300px;
+    margin: auto;
+}
+#authentication .columns-container-middle .box .page-subheading {
+  border:none;
+  margin-bottom:26px;
+  /* font-family: Merryweather!important; */
+  text-align: center;
+  font-size: 26px;
+  font-weight: bold!important;
+  color: #4A4A4A;
+  }
+
+#authentication #oneall_social_login_box {
+    padding-left:15px;
+    padding-right:15px;
+    margin-top:0;
+    display:inline-block;
+    width:40%;
+}
+#authentication #oneall_social_login_box .box {
+  padding:0;
+}
+
+#authentication #login_form label, #authentication #create-account_form label {
+  display: none;
+}
+
+.au-row {
+    padding-top:40px;
+    padding-bottom:40px;  
+}
+
+#authentication .columns-container-middle .box .submit {
+	text-align: center;
+  margin-top:24px;
+}
+#authentication .columns-container-middle .box .radio-inline {
+  margin-bottom:10px;
+}
+#authentication .columns-container-middle .box .account_creation > .checkbox:first-child {
+  margin-top:16px;
+}
+#authentication .account_creation label { width:100%; }
+
+      @media (max-width:991px) {
+        #login_form .form-group.lost_password {
+          float:none;
+          margin: 10px 0 22px 0; }
+          #account-creation_form .required.form-group input { max-width: 100%; }   
+          #address p.required, #identity p.required, #account-creation_form p.required, #new_account_form p.required, #opc_account_form p.required, #authentication p.required {
+            margin:20px 0 0 0;     
+            text-align: left;   
+            padding-left:0;    
+          }
+      }
+
+      @media (max-width:767px) {
+          .au-row { padding: 0 }
+          .au-register, .au-login {
+	          text-align: center;
+	         }     
+          #authentication .columns-container-middle #create-account_form {  }
+          #create-account_form p { padding:0 30px; }
+          #create-account_form .form-group {
+              margin: 30px auto;
+              max-width: 300px;
+          }
+      }
+      @media (max-width:479px) {
+        #middlecolumns { padding-bottom: 0!important }
+        #authentication #topcolumns { display: none; }
+        .au-login {}
+        #create-account_form .form-group { margin:18px 0; }
+        #authentication .columns-container-middle .box .submit { margin:20px 0; }
+        #create-account_form p { padding:0; }
+        #create-account_form .form-group { /* max-width: 100%; */ }
+        #authentication .account_creation label { margin-bottom:2px; }
+        #authentication .columns-container-middle #login_form { padding: 30px 30px 50px; margin-bottom: 0; }
+        #authentication .columns-container-middle .box .page-subheading { margin-top: 0 }
+      }
+
+.center-div{width: 100%}
+#create_account_error div{width: 70%}

@@ -1,0 +1,182 @@
+/**
+* Prestashop Addons | Module by: <App1Pro>
+*
+* @author    Chuyen Nguyen [App1Pro].
+* @copyright Chuyenim@gmail.com
+* @license   http://app1pro.com/license.txt
+*/
+.replyform .form-group{display:none;}
+#commentpro {
+	display: block;
+	border-radius: 5px;
+	width: 100%;
+	max-width: 750px;
+	margin: auto;
+	/* padding: 40px; */
+	/* border: 1px solid #ebebeb; */
+	background: #f3f3f3;
+	}
+	.replies li{border:none!important}
+#commentpro.ps17 { background-color:white;padding:10px;margin-top: 15px;box-shadow: 2px 2px 11px 0px rgba(0, 0, 0, 0.1); }
+#commentpro .cmmnt, ul .cmmnt,
+#commentpro ul ul .cmmnt {display: block;position: relative;padding-right: 25%;border-top: 1px solid #e2e2e3;}
+#commentpro .cmmnt .avatar  { position: absolute; top: 11px; left: 0; }
+#commentpro .cmmnt .avatar img {
+	width: 35px;
+	height: 35px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 50%;
+}
+#commentpro ul.comments > li:nth-child(2n) {/* background-color: #f9f9f9; */}
+#cmmnt-content .replywrap{display:none}
+#commentpro .cmmnt .cmmnt-content { padding: 0px 3px; padding-bottom: 8px; padding-top: 8px; }
+#commentpro .cmmnt .cmmnt-content header { background: none; font-size: 1em; display: block; padding-bottom: 0; margin-bottom: 4px; }
+#commentpro .cmmnt .cmmnt-content header .pubdate {color: #aaa;font-size: .9em;float: right;}
+#commentpro .cmmnt .cmmnt-content header .userlink {color: #333;font-weight: 500;}
+#commentpro .cmmnt .cmmnt-content .cmmnt-text .replyto { color: #4585ca; font-size: .9em; }
+#commentpro .cmmnt .cmmnt-content .cmmnt-text .replyto i.icon { font-size: .8em; }
+
+#commentpro .cmmnt .cmmnt-content footer { color: #aaa; font-size: .9em; margin-top: 4px; }
+#commentpro .cmmnt .cmmnt-content footer a { color: #aaa; cursor: pointer; }
+#commentpro .cmmnt .cmmnt-content footer a > i { font-size: 18px; }
+#commentpro .cmmnt .cmmnt-content footer span + span { margin: 0 3px; }
+#commentpro .cmmnt .cmmnt-content footer .green,
+#commentpro .cmmnt .cmmnt-content footer .green a,
+#commentpro .cmmnt .cmmnt-content footer .active a { color: #4285f4; }
+#commentpro .cmmnt .cmmnt-content footer .red,
+#commentpro .cmmnt .cmmnt-content footer .red a {/* color: #ff0000; */}
+#commentpro .cmmnt .cmmnt-content footer .yellow,
+#commentpro .cmmnt .cmmnt-content footer .yellow a {/* color: #ffc107; */}
+#commentpro .cmmnt .replies {margin-bottom: 0px;padding-left: 50px!important;}
+#commentpro .replywrap {
+    padding-bottom: 7px;
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+    max-width: 500px;
+}
+#commentpro.ps17 .replywrap { margin-bottom: -10px;margin-left: -10px;margin-right: -10px; }
+
+#commentpro .replyform { margin-bottom: 5px; }
+#commentpro .replyform textarea { margin-bottom: 5px;color: #343434;    border-radius: 5px;
+    background-color: white!important;
+    -webkit-box-shadow: 0 0 0px 1000px #FFFFFF inset;    min-height: 110px; }
+#commentpro .pagination { margin: 0; display: block; text-align: center; }
+#commentpro .pagination ul li { display: inline-block; border: 1px solid #ccc; margin-bottom: 3px; }
+#commentpro .pagination ul li span,
+#commentpro .pagination ul li a { display: inline-block; padding: 5px; min-width: 28px; line-height: 1; }
+#commentpro .pagination ul li.current { color: white; background-color: #55c65e; border: 1px solid #55c65e; }
+
+.commentp-popup h2, .commentp-popup h3 { margin: 0; }
+.commentp-popup {/* min-width: 250px; */}
+.commentp-popup header {/* padding:7px 10px; */line-height: 1;font-size: 13px;/* color: #fff; */text-transform: uppercase;/* background-color: #17803e; */}
+.commentp-popup .notif-list { margin-bottom: 10px; max-height: 450px; overflow: auto; }
+.commentp-popup .notif-list > a { display: block; padding: 5px 5px; color: #333; }
+.commentp-popup .notif-list > a.unread { background-color: #dbf8ff; }
+.commentp-popup .panel-heading > a > h4 {padding:7px 10px; line-height: 1; font-size: 13px; color: #fff; text-transform: uppercase; background-color: #17803e; }
+.commentp-popup .description { font-size: .9em; }
+.commentp-popup footer { margin-top: 10px; font-size: 12px; }
+
+.pcppopup-form {/* width: 450px; */}
+.pcppopup-form .content {padding: 45px 35px;background: #f8f8f8;width: 100%;}
+.pcppopup-form label { margin:8px 0 4px 0; }
+.pcppopup-form .fl { float: left; }
+.pcppopup-form .fr {float: right; }
+
+.blink_me { animation: blinker 1s linear infinite; }
+@keyframes blinker { 50% { opacity: 0; background-color: #ffeb3b; } }
+
+.account-block { position: relative; padding-left: 80px; }
+.account-block .avatar { position: absolute; top: 10px; left: 0; }
+/*** Chat page ****/
+#module-marketplace-pp_chat #commentpro {width:100%;padding: 30px;/* max-width: 500px; */}
+ul.chats_list {margin-top: 20px;}
+ul.chats_list li.chat_item {
+    width: 100%;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+}
+ul.chats_list li.chat_item a {display: block;width: 100%;}
+ul.chats_list li.chat_item a span.chat_date_add {}
+ul.chats_list .bold {font-weight: bold;}
+ul.chats_list li.chat_item .msg_image {width: 9%;}
+ul.chats_list li.chat_item .msg_image img {object-fit: cover;height: 50px;border-radius: 50%;width: 50px;}
+ul.chats_list li.chat_item .msg_rs {width: 88%;}
+ul.chats_list li.chat_item .msg_rs .prod_name {width: 80%;font-size: 13px;}
+ul.chats_list li.chat_item .msg_rs .msg_date_add {width: 20%;/* float: right; */}
+ul.chats_list li.chat_item .green_circle {width: 12px;height: 12px;border-radius: 50%;background-color: green;margin-right: 5px;}
+ul.chats_list li.chat_item .last_comment {font-size: 14px;margin-top: 15px;}
+ul.chats_list li.chat_item .prod_cust_name {width: 59%;}
+ul.chats_list li.chat_item .unread_msg {width: 29%;}
+ul.chats_list li.chat_item .archive_msg {width: 8%;padding-left: 10px}
+ul.chats_list li.chat_item .unread_msg, ul.chats_list li.chat_item .archive_msg {color: #a9a6a6;}
+ul.chats_list li.chat_item .archive_msg.arch_longer_cls {width: 29%;}
+
+
+@media only screen  and (max-width : 800px) {
+    ul.chats_list li.chat_item .last_comment {margin-top: 6px;}
+    ul.chats_list li.chat_item .archive_msg.hidden, 
+    ul.chats_list li.chat_item .unread_msg.hidden {display: block!important;visibility: visible!important;}
+    ul.chats_list li.chat_item .msg_rs .prod_name {width:84%;}
+    ul.chats_list li.chat_item .msg_rs .msg_date_add {width:16%;}
+    ul.chats_list li.chat_item .unread_msg {width: 27%;}
+    ul.chats_list li.chat_item .prod_cust_name {width: 65%;}
+}
+
+@media (max-width: 600px) {
+    ul.chats_list li.chat_item .msg_rs .msg_date_add {width: 25%;margin-top: -22px;}
+    ul.chats_list li.chat_item .unread_msg {width: 40%;margin-top: 5px;}
+    ul.chats_list li.chat_item .archive_msg {width: 20%;margin-top: 5px;}
+    ul.chats_list li.chat_item .prod_cust_name {width: 100%;}
+    ul.chats_list li.chat_item .archive_msg.arch_longer_cls {width: 55px;}
+}
+
+@media (max-width: 480px) {
+	.msg_image{width:20%!important}
+	.msg_rs{width:80%!important}
+    ul.chats_list li.chat_item .msg_rs {/* width: calc(100% - 70px); */}
+    #module-marketplace-pp_chat #commentpro {padding: 0!important;background-color: #F3F3F3;}
+    ul.chats_list li.chat_item .msg_rs .prod_name {width: 100%;font-size: 11px;}
+    ul.chats_list li.chat_item .prod_cust_name {width: 100%;}
+    ul.chats_list li.chat_item .msg_rs .msg_date_add {width: 40%;font-size: 10px;}
+    ul.chats_list li.chat_item .last_comment {font-size: 12px;}
+    ul.chats_list li.chat_item {position: relative;/* background-color: #F3F3F3; */}
+    ul.chats_list li.chat_item .green_circle {position: absolute;top: 2px;left: 10px;}
+    ul.chats_list li.chat_item .archive_msg.arch_longer_cls {width: 45px;}
+}
+
+@media only screen and (max-width: 360px) and (min-width: 320px) {
+    ul.chats_list li.chat_item .msg_rs {width: calc(100% - 60px);}
+    ul.chats_list li.chat_item .msg_image {margin-right: 2px;}
+    ul.chats_list li.chat_item .green_circle {margin-left: -8px;}
+    ul.chats_list li.chat_item .msg_rs .prod_name {font-size: 9px;}
+    ul.chats_list li.chat_item .msg_rs .msg_date_add {width: 42%;font-size: 12px;}
+    ul.chats_list li.chat_item .last_comment {margin-top: 5px;font-size: 10px;margin-left: 5px;}
+}
+#commentpro_list ul{padding-left: 0!important}
+.my_comment .cmmnt-text{background-color: #007AFF!important;color: white;}
+.cmmnt-text{
+    padding: 14px;
+    background: white;
+    border-radius: 10px;
+    font-size: 14px;
+    font-family: Lato;
+    }
+.my_comment{
+    padding-left: 25%!important;
+    padding-right: 0!important;
+}    
+#pcp_editform textarea{background-color:white;}
+#pcp_editform .title{
+    margin: 25px;
+    font-family: Merriweather!important;
+    font-size: 20px;
+}
+#pcp_editform button {margin-right:20px}
+.my_comnt_pdt_page{
+    font-style: italic;
+    font-weight: 600;
+    padding-left: 25px;
+}

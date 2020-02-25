@@ -1,0 +1,58 @@
+/************************************************************
+				History Page Styles
+************************************************************/
+#order-detail-content table .return_quantity_buttons {
+  margin-top: 3px; }
+  #order-detail-content table .return_quantity_buttons a {
+    display: none;
+    float: left; }
+    #order-detail-content table .return_quantity_buttons a + a {
+      margin-left: 3px; }
+#order-detail-content table .order_qte_input {
+  display: none;
+  width: 57px;
+  height: 27px;
+  line-height: 27px;
+  padding: 0;
+  text-align: center; }
+#order-detail-content table label {
+  font-weight: 400; }
+
+.table td.history_detail a + a {
+  margin-left: 14px; }
+.table td.step-by-step-date {
+  width: 105px; }
+.table tfoot strong {
+  color: #333333; }
+
+.info-order i {
+  font-size: 20px; }
+  .info-order i.icon-gift {
+    color: #f13340; }
+  .info-order i.icon-repeat {
+    color: #55c65e; }
+#sendOrderMessage {margin-bottom: 30px;padding: 20px 50px; }
+#sendOrderMessage select.form-control {width: 263px; }
+#pp_dispute_form .form-group.wrap-input100 {margin-bottom: 27px;border: none;}
+#pp_dispute_form input, #pp_dispute_form select {min-height: 50px;}
+#pp_dispute_form select {padding: 5px 0px 5px 10px;}
+#pp_dispute_form .modal-header {margin-bottom: 20px;} 
+#pp_dispute_form .alert {display: none;}
+#ohDisputeModal .selector {width: 100%!important;}
+#pp_dispute_form .form-group.wrap-input100.select {margin-bottom: 30px;}
+#pp_dispute_form .select .focus-input100-b::after {top: -20px;}
+button.valdiateDeliveredItem {}
+form#pp_dispute_form {margin-top: 10px;}
+#pp_dispute_form input, #pp_dispute_form select{background:#F3F3F3!important}
+.confirm_delivered_item {
+    -webkit-appearance: menulist;
+    padding: 4px;
+    min-width: 40px;
+    font-size: 12px!important;
+    height: 40px;
+    margin-right:20px;
+      background: #F3F3F3;
+}
+.wrapper_delivery_confirmation select{width: 100%;-webkit-appearance: menulist;margin:20px 0;height: 40px; }
+.wrapper_delivery_confirmation{text-align: center}
+/* .pair .wrapper_delivery_confirmation select{background: white!important} */

@@ -1,0 +1,13 @@
+[{shop_url}]
+
+Hi,
+
+New Reply was added in shop:
+
+Reply: {reply} 
+
+Added on: {date}
+
+If option for moderation is active not forget to verify answer and enable to be displayed in shop.
+
+{shop_name}

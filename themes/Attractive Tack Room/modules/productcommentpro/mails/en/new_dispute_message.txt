@@ -1,0 +1,11 @@
+
+[{shop_url}] 
+
+Hello {nickname}
+
+A customer opened a dispute about an item she/he bought from you
+
+Message: 
+{comment}
+
+{shop_name} [{shop_url}].

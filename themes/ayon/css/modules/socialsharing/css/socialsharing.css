@@ -1,0 +1,25 @@
+.socialsharing_product button {
+    padding:4px 10px;
+    font-size:13px;
+    font-weight: normal;
+    margin-right: 2px;
+    color:#888888;
+    background:#ffffff;
+    border:none;
+    -webkit-transition: all 240ms ease;
+    -moz-transition: all 240ms ease;
+    -o-transition: all 240ms ease;
+    transition: all 240ms ease; }
+.socialsharing_product button i {
+    margin-right:2px;
+    -webkit-transition: all 240ms ease;
+    -moz-transition: all 240ms ease;
+    -o-transition: all 240ms ease;
+    transition: all 240ms ease; }
+#product_comparison .socialsharing_product button {
+    padding:4px 10px;
+    font-size:13px;
+    display: table;
+    margin-right: 3px;
+    margin-bottom: 6px;
+    background:#ffffff; }

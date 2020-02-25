@@ -1,0 +1,12 @@
+
+[{shop_url}] 
+
+Hello {nickname}
+
+{person} replied your message
+{link}
+
+Message: 
+{comment}
+
+{shop_name} [{shop_url}].

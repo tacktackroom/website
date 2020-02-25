@@ -1,0 +1,15 @@
+
+[{shop_url}] 
+
+Hello {nickname}
+
+Someone reacted to your comment on
+{link}
+
+comment: 
+{comment}
+
+reacted: 
+{response}
+
+{shop_name} [{shop_url}].

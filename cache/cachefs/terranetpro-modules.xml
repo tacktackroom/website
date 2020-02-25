@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modules>
+    <module id_product="45244" rate="5">
+        <en name="Google Merchant Center (Google Shopping Feed) PRO">
+            Export your products to Google Merchant Center, easily!
+        </en>
+    </module>
+    <module id_product="42406" rate="5">
+        <en name="Product Catalog Export for Dynamic Ads">
+            The Product Catalog Export for Dynamic ads module will allow you to send the list of products of your shop to Facebook and add your products in Dynamic ads for promote your goods, that increase your sales by at least 20% in just a few days.
+        </en>
+    </module>
+    <module id_product="21368" rate="5">
+        <en name="Full Features Groups (+ Multiple Features and Quick Edit)">
+            Using our module you can easily display product features groups on product and comparison pages. This module
+            also displays the list of features, alligned with the selected category, in administration panel on the
+            product page.
+        </en>
+    </module>
+    <module id_product="21889" rate="5">
+        <en name="Google Shopping Feed (for Google Merchant Center)">
+            The Google Shopping Feed module will allow you to send the list of products of your shop to Google Merchant
+            Center and publish your products on Google Shopping page results, that increase your sales by at least 20%
+            in just a few days.
+        </en>
+    </module>
+    <module id_product="22484" rate="5">
+        <en name="Social feed">
+            Using our module you can easily display images from your Instagram account on your e-shop. This module also displays the images in a customizable way.
+        </en>
+    </module>
+    <module id_product="21788" rate="45">
+        <en name="Price List generator">
+            Using our module you can easily get an downloadable XLS products price list on your site for customers!
+        </en>
+    </module>
+    <module id_product="29918" rate="5">
+        <en name="Basket/Cart UpSale (3 in 1)">
+            This module helps to increase sales in the cart by showing most relevant products as offer to buy. This product is detected by collected statistics of this user on your website. 
+        </en>
+    </module>
+    <module id_product="24352" rate="45">
+        <en name="Full Features Groups PRO (with Compare products)">
+            Using our module you can easily display product features groups on product. This module also displays the list of features, aligned with the selected category, in administration panel on the product page. Assign several values to one product feature.
+        </en>
+    </module>
+    <module id_product="28019" rate="5">
+        <en name="Two Step Admin Authentication">
+            The module to protect your Back Office accounts from brute-force. Works for unknown IPs.
+        </en>
+    </module>
+
+    <documentation>
+        <module id_product="45244">
+            <link>
+                http://terranetpro.com/google-merchant-center-google-shopping-feed-pro-documentation/
+            </link>
+        </module>
+        <module id_product="21889">
+            <link>
+                http://terranetpro.com/google-shopping-feed-documentation/
+            </link>
+        </module>
+        <module id_product="42406">
+            <link>
+                http://terranetpro.com/product-catalog-export-for-dynamic-ads-documentation/
+            </link>
+        </module>
+    </documentation>
+</modules>

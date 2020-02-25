@@ -1,0 +1,12 @@
+{mpshop_name}
+
+Hello {customerName},
+New message from {mpshop_name}
+
+
+{description}
+
+Visit Seller Shop {mpshop_name}
+
+
+Click here [{my_account_url}] to check your account

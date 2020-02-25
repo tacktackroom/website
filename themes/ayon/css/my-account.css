@@ -1,0 +1,148 @@
+#my-account .addresses-lists {
+  margin-bottom: 30px; }
+#my-account ul.myaccount-link-list li {
+  overflow: hidden;
+  padding-bottom: 10px; }
+    #my-account ul.myaccount-link-list li a {
+        display: block;
+        overflow: hidden;
+        font-size:18px;
+        line-height:60px;
+        color: #6D6D6D;
+        text-transform: uppercase;
+        text-decoration: none;
+        -webkit-transition: all 220ms ease;
+        -moz-transition: all 220ms ease;
+        -o-transition: all 220ms ease;
+        transition: all 220ms ease;
+        position: relative; }
+    #my-account ul.myaccount-link-list li a i {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 60px;
+        height:60px;
+        color:#323232;
+        margin-right:12px;
+        display:inline-block;
+        border:1px solid #dddddd;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        border-radius: 50%;
+        -webkit-transition: all 220ms ease;
+        -moz-transition: all 220ms ease;
+        -o-transition: all 220ms ease;
+        transition: all 220ms ease;
+        text-align: center; }
+    #my-account ul.myaccount-link-list li a span {
+        display: block;
+        font-size: 14px;
+        padding: 0 15px 0 17px;
+        overflow: hidden;
+        -webkit-transition: all 220ms ease;
+        -moz-transition: all 220ms ease;
+        -o-transition: all 220ms ease;
+        transition: all 220ms ease;
+        margin-left: 56px; }
+    #my-account ul.myaccount-link-list li a:hover {
+        filter: none;
+        color:#333333; }
+    #my-account ul.myaccount-link-list li a:hover i {
+        border-color:#515151; }
+    #my-account ul.myaccount-link-list li a:hover span {
+/*         margin-left: 52px; */ }
+
+@media (max-width: 479px) {    
+    #my-account #topcolumns { display: none; }
+    #my-account .page-heading { text-align: center;padding: 10px }
+    #my-account ul.myaccount-link-list:first-child { margin-bottom: 0; }
+    #my-account ul.myaccount-link-list li { border-top: 1px solid #e5e5e5; padding:0; }
+    #my-account ul.myaccount-link-list li a:hover span { margin: 0!important }
+    #my-account ul.myaccount-link-list li a {
+        font-size:16px!important;
+        line-height:24px!important; }
+    #my-account ul.myaccount-link-list li a i {
+        position: static;
+        width: 27px;
+        height: auto;
+        background: none!important;
+        border:none!important;
+        margin-right: 12px;
+        display: inline-block;
+        border: none;
+        vertical-align: 3px; }
+    #my-account ul.myaccount-link-list li a span {
+        display: inline-block;
+        padding:0;
+        margin:0;
+    }
+}
+
+
+
+/* MA Icons */
+#my-account ul.myaccount-link-list li a i:before {
+    padding-left:1px;
+    line-height: 57px; }
+#my-account ul.myaccount-link-list li a i.io-map:before {
+    line-height: 56px;
+    font-size: 26px;
+    font-family: "Ionicons";
+    content:"\f203"; }
+#my-account ul.myaccount-link-list li a i.io-addaddress:before {
+    line-height: 58px;
+    font-size: 26px;
+    font-family: "Ionicons";
+    content:"\f3a3"; }
+#my-account ul.myaccount-link-list li a i.io-credit:before {
+    font-size: 26px;
+    font-family: "Ionicons";
+    content:"\f12f"; }
+#my-account ul.myaccount-link-list li a i.io-refresh:before {
+    font-size: 26px;
+    font-family: "Ionicons";
+    content:"\f3a8"; }
+#my-account ul.myaccount-link-list li a i.io-heart:before {
+    line-height: 60px;
+    padding-left:0;
+    font-size: 26px;
+    font-family: "Ionicons";
+    content:"\f387"; }
+#my-account ul.myaccount-link-list li a i.io-personal:before {
+    line-height: 55px;
+    padding-left:2px;
+    font-size: 26px;
+    font-family: "Ionicons";
+    content:"\f12c"; }
+#my-account ul.myaccount-link-list li a i.io-loyalty:before {
+    font-size: 26px;
+    line-height: 55px;
+    padding-left:0;
+    font-family: "Ionicons";
+    content:"\f3ae"; }
+#my-account ul.myaccount-link-list li a i.io-vouchers:before {
+    font-size: 24px;
+    line-height: 55px;
+    font-family: "Ionicons";
+    content:"\f34b"; }
+#my-account ul.myaccount-link-list li a i.io-history:before {
+    line-height: 55px;
+    padding-left:1px;
+    font-size: 26px;
+    font-family: "Ionicons";
+    content:"\f127"; }
+#my-account ul.myaccount-link-list li a i.io-mail:before {
+    line-height: 55px;
+    font-size: 22px;
+    padding-left:0;
+    font-family: "FontAwesome";
+    content:"\f003"; }
+/* /MA Icons */
+.db_img{
+    width: 50%;
+    float: left;
+}
+.db_img img{}
+
+
+

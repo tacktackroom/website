@@ -1,0 +1,13 @@
+
+[{shop_url}] 
+
+Hello {nickname}
+
+A customer sent you a message about this product: 
+{link}
+
+Message: 
+{comment}
+
+
+{shop_name} [{shop_url}].

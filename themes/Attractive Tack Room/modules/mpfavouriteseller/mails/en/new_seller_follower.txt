@@ -1,0 +1,9 @@
+Hello {sellerName}
+You have a new follower
+
+Customer Details:
+Name: {customerName}
+Email: {customerEmail}
+
+
+Click here [{my_account_url}] to check your account

@@ -1,0 +1,184 @@
+/**
+* 2015-2016 Bonpresta
+*
+* Bonpresta Responsive testimonials carousel
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the General Public License (GPL 2.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/GPL-2.0
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade the module to newer
+* versions in the future.
+*
+*  @author    Bonpresta
+*  @copyright 2015-2016 Bonpresta
+*  @license   http://opensource.org/licenses/GPL-2.0 General Public License (GPL 2.0)
+*/
+@media(min-width:1199px){
+  #bontestimonials ul li .testimonials-inner {width: 70%!important;}
+}
+@media (min-width:768px) {
+.moretext{font-size:14px!important}
+#bontestimonials ul li .testimonials-inner .description{
+    font-size: 26px!important;
+}
+  #bontestimonials {padding: 20px;}
+  
+}
+.bontestimonials-page li {
+  margin-bottom: 50px;
+}
+.bontestimonials-page li .description {
+  padding: 0 35px;
+}
+#bontestimonials {
+  text-align: center;
+  position: relative;
+  background: #f4f3f5;
+  /* margin: 20px 0; */
+}
+
+#bontestimonials .owl-nav {
+  position: absolute;
+  right: 0;
+  bottom: -4px;
+}
+
+#bontestimonials .owl-theme .owl-nav [class*="owl-"] {
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear;
+  -ms-transition: all 0.3s linear;
+  -o-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+}
+
+#bontestimonials .owl-theme .owl-nav [class*="owl-"]:hover {
+  background: #333;
+}
+
+#bontestimonials .owl-theme .owl-dots .owl-dot.active span,
+#bontestimonials .owl-theme .owl-dots .owl-dot:hover span {
+  background: #333;
+}
+
+#bontestimonials h4 {
+  text-align: center;
+  text-transform: uppercase;
+  /* margin-bottom: 30px; */
+  font-weight: normal;
+  FLOAT: left;
+  padding-left: 10px;
+  font-size: 56px!important;
+}
+#bontestimonials h4 span {
+  display: block;
+  margin: 5px 0;
+  font-size: 12px;
+  color: #777;
+}
+#bontestimonials ul li {
+  text-align: center;
+  padding: 0 10px!important;
+  margin-bottom: 0;
+  flex: 0 0 auto;
+}
+
+
+#bontestimonials ul li img {
+  border-radius: 100%;
+  /* display: inline-block; */
+  margin: auto;
+  width: 20%;
+  max-width: 100px;
+  height: auto;
+  float: left;
+}
+
+#bontestimonials ul li .testimonials-inner {
+  padding-bottom: 30px;
+  width: 100%;
+  margin: auto;
+  padding: 20px;
+  background: white;
+  border-radius: 5px;
+  -webkit-box-shadow: 1px 2px 5px 0 rgba(0, 0, 0, 0.07);
+  box-shadow: 1px 2px 5px 0 rgba(0, 0, 0, 0.07);
+}
+
+#bontestimonials ul li .testimonials-inner .description {
+  margin-bottom: 10px;
+  font-size: 16px;
+  line-height: normal;
+  font-weight: 500!important;
+  font-family: Merriweather;
+  /* font-style: italic; */
+}
+
+#bontestimonials ul li .testimonials-inner h5 {
+  font-weight: 700!important;
+  margin-top: 0;
+  display: table;
+  white-space: nowrap;
+  text-align: center;
+  max-width: 150px;
+  float: right;
+}
+#bontestimonials ul li .testimonials-inner h5:before, #bontestimonials ul li .testimonials-inner h5:after {
+  content: "";
+  display: table-cell;
+  width: 50%;
+  background: url(data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=) repeat-x left center;
+}
+
+#bontestimonials ul li .testimonials-inner em {
+  font-style: italic;
+  /* display: block; */
+  float: left;
+  font-size: 10px;
+}
+
+#bontestimonials .star {
+  position: relative;
+  width: 14px;
+  overflow: hidden;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: normal;
+  margin: 0 1px 0 0;
+  height: 16px;
+  display: inline-block;
+}
+
+#bontestimonials div.star:after {
+  content: "\f006";
+  font-family: "FontAwesome";
+  display: inline-block;
+  color: #777676;
+}
+
+#bontestimonials div.star.star_on:after {
+  content: "\f005";
+  font-family: "FontAwesome";
+  display: inline-block;
+  color: #ef8743;
+}
+
+#bontestimonials div.star.star_hover:after {
+  content: "\f005";
+  font-family: "FontAwesome";
+  display: inline-block;
+  color: #ef8743;
+}
+
+#bontestimonials .content-star {
+  text-align: center;
+  /* margin: auto; */
+}
+@media (min-width:768px and max-width:1199px){
+.owl-carousel-testimonials .owl-stage-outer .owl-item {/* width: 100%!important; */}
+}

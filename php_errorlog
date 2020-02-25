@@ -1,0 +1,775 @@
+[04-Feb-2020 18:51:14 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[04-Feb-2020 19:52:48 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[05-Feb-2020 09:12:36 US/Pacific] PHP Parse error:  syntax error, unexpected '$newOrders' (T_VARIABLE) in /home/flyingch/public_html/attractivetackroom.com/override/classes/controller/FrontController.php on line 32
+[05-Feb-2020 09:12:36 US/Pacific] PHP Parse error:  syntax error, unexpected '$newOrders' (T_VARIABLE) in /home/flyingch/public_html/attractivetackroom.com/override/classes/controller/FrontController.php on line 32
+[05-Feb-2020 09:12:37 US/Pacific] PHP Parse error:  syntax error, unexpected '$newOrders' (T_VARIABLE) in /home/flyingch/public_html/attractivetackroom.com/override/classes/controller/FrontController.php on line 32
+[05-Feb-2020 09:12:41 US/Pacific] PHP Parse error:  syntax error, unexpected '$newOrders' (T_VARIABLE) in /home/flyingch/public_html/attractivetackroom.com/override/classes/controller/FrontController.php on line 32
+[05-Feb-2020 09:12:41 US/Pacific] PHP Parse error:  syntax error, unexpected '$newOrders' (T_VARIABLE) in /home/flyingch/public_html/attractivetackroom.com/override/classes/controller/FrontController.php on line 32
+[05-Feb-2020 09:12:42 US/Pacific] PHP Parse error:  syntax error, unexpected '$newOrders' (T_VARIABLE) in /home/flyingch/public_html/attractivetackroom.com/override/classes/controller/FrontController.php on line 32
+[05-Feb-2020 09:12:43 US/Pacific] PHP Parse error:  syntax error, unexpected '$newOrders' (T_VARIABLE) in /home/flyingch/public_html/attractivetackroom.com/override/classes/controller/FrontController.php on line 32
+[05-Feb-2020 09:12:45 US/Pacific] PHP Parse error:  syntax error, unexpected '$newOrders' (T_VARIABLE) in /home/flyingch/public_html/attractivetackroom.com/override/classes/controller/FrontController.php on line 32
+[05-Feb-2020 09:47:07 US/Pacific] PHP Parse error:  syntax error, unexpected end of file in /home/flyingch/public_html/attractivetackroom.com/override/classes/controller/FrontController.php on line 94
+[05-Feb-2020 09:47:08 US/Pacific] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ')' in /home/flyingch/public_html/attractivetackroom.com/override/classes/controller/FrontController.php on line 248
+[05-Feb-2020 10:28:40 US/Pacific] PHP Fatal error:  require_once(): Failed opening required 'WkMpStripe.php' (include_path='/home/flyingch/public_html/attractivetackroom.com/tools/htmlpurifier/standalone:.:/usr/local/php71/pear') in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/classes/WkMpRequiredClasses.php on line 60
+[05-Feb-2020 10:28:43 US/Pacific] PHP Fatal error:  require_once(): Failed opening required 'WkMpStripe.php' (include_path='/home/flyingch/public_html/attractivetackroom.com/tools/htmlpurifier/standalone:.:/usr/local/php71/pear') in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/classes/WkMpRequiredClasses.php on line 60
+[05-Feb-2020 11:52:58 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[05-Feb-2020 11:56:36 US/Pacific] No API key provided.  (HINT: set your API key using "Stripe::setApiKey(<API-KEY>)".  You can generate API keys from the Stripe web interface.  See https://stripe.com/api for details, or email support@stripe.com if you have any questions.
+[05-Feb-2020 11:56:46 US/Pacific] No API key provided.  (HINT: set your API key using "Stripe::setApiKey(<API-KEY>)".  You can generate API keys from the Stripe web interface.  See https://stripe.com/api for details, or email support@stripe.com if you have any questions.
+[05-Feb-2020 11:56:50 US/Pacific] No API key provided.  (HINT: set your API key using "Stripe::setApiKey(<API-KEY>)".  You can generate API keys from the Stripe web interface.  See https://stripe.com/api for details, or email support@stripe.com if you have any questions.
+[05-Feb-2020 11:56:53 US/Pacific] No API key provided.  (HINT: set your API key using "Stripe::setApiKey(<API-KEY>)".  You can generate API keys from the Stripe web interface.  See https://stripe.com/api for details, or email support@stripe.com if you have any questions.
+[05-Feb-2020 11:56:53 US/Pacific] No API key provided.  (HINT: set your API key using "Stripe::setApiKey(<API-KEY>)".  You can generate API keys from the Stripe web interface.  See https://stripe.com/api for details, or email support@stripe.com if you have any questions.
+[05-Feb-2020 11:57:09 US/Pacific] No API key provided.  (HINT: set your API key using "Stripe::setApiKey(<API-KEY>)".  You can generate API keys from the Stripe web interface.  See https://stripe.com/api for details, or email support@stripe.com if you have any questions.
+[05-Feb-2020 11:57:09 US/Pacific] No API key provided.  (HINT: set your API key using "Stripe::setApiKey(<API-KEY>)".  You can generate API keys from the Stripe web interface.  See https://stripe.com/api for details, or email support@stripe.com if you have any questions.
+[05-Feb-2020 21:07:56 Africa/Casablanca] PHP Fatal error:  require_once(): Failed opening required '/home/flyingch/public_html/attractivetackroom.com/modules/stripe_official/stripe_official.php' (include_path='/home/flyingch/public_html/attractivetackroom.com/tools/htmlpurifier/standalone:.:/usr/local/php71/pear') in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/classes/WkMpStripe.php on line 86
+[05-Feb-2020 21:07:56 Africa/Casablanca] PHP Fatal error:  require_once(): Failed opening required '/home/flyingch/public_html/attractivetackroom.com/modules/stripe_official/stripe_official.php' (include_path='/home/flyingch/public_html/attractivetackroom.com/tools/htmlpurifier/standalone:.:/usr/local/php71/pear') in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/classes/WkMpStripe.php on line 86
+[05-Feb-2020 21:08:01 Africa/Casablanca] PHP Fatal error:  require_once(): Failed opening required '/home/flyingch/public_html/attractivetackroom.com/modules/stripe_official/stripe_official.php' (include_path='/home/flyingch/public_html/attractivetackroom.com/tools/htmlpurifier/standalone:.:/usr/local/php71/pear') in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/classes/WkMpStripe.php on line 86
+[05-Feb-2020 21:08:06 Africa/Casablanca] PHP Fatal error:  require_once(): Failed opening required '/home/flyingch/public_html/attractivetackroom.com/modules/stripe_official/stripe_official.php' (include_path='/home/flyingch/public_html/attractivetackroom.com/tools/htmlpurifier/standalone:.:/usr/local/php71/pear') in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/classes/WkMpStripe.php on line 86
+[05-Feb-2020 21:08:07 Africa/Casablanca] PHP Fatal error:  require_once(): Failed opening required '/home/flyingch/public_html/attractivetackroom.com/modules/stripe_official/stripe_official.php' (include_path='/home/flyingch/public_html/attractivetackroom.com/tools/htmlpurifier/standalone:.:/usr/local/php71/pear') in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/classes/WkMpStripe.php on line 86
+[05-Feb-2020 21:08:15 Africa/Casablanca] PHP Fatal error:  require_once(): Failed opening required '/home/flyingch/public_html/attractivetackroom.com/modules/stripe_official/stripe_official.php' (include_path='/home/flyingch/public_html/attractivetackroom.com/tools/htmlpurifier/standalone:.:/usr/local/php71/pear') in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/classes/WkMpStripe.php on line 86
+[05-Feb-2020 21:08:19 Africa/Casablanca] PHP Fatal error:  require_once(): Failed opening required '/home/flyingch/public_html/attractivetackroom.com/modules/stripe_official/stripe_official.php' (include_path='/home/flyingch/public_html/attractivetackroom.com/tools/htmlpurifier/standalone:.:/usr/local/php71/pear') in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/classes/WkMpStripe.php on line 86
+[05-Feb-2020 21:08:19 Africa/Casablanca] PHP Fatal error:  require_once(): Failed opening required '/home/flyingch/public_html/attractivetackroom.com/modules/stripe_official/stripe_official.php' (include_path='/home/flyingch/public_html/attractivetackroom.com/tools/htmlpurifier/standalone:.:/usr/local/php71/pear') in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/classes/WkMpStripe.php on line 86
+[05-Feb-2020 21:08:21 Africa/Casablanca] PHP Fatal error:  require_once(): Failed opening required '/home/flyingch/public_html/attractivetackroom.com/modules/stripe_official/stripe_official.php' (include_path='/home/flyingch/public_html/attractivetackroom.com/tools/htmlpurifier/standalone:.:/usr/local/php71/pear') in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/classes/WkMpStripe.php on line 86
+[05-Feb-2020 21:08:25 Africa/Casablanca] PHP Fatal error:  require_once(): Failed opening required '/home/flyingch/public_html/attractivetackroom.com/modules/stripe_official/stripe_official.php' (include_path='/home/flyingch/public_html/attractivetackroom.com/tools/htmlpurifier/standalone:.:/usr/local/php71/pear') in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/classes/WkMpStripe.php on line 86
+[05-Feb-2020 12:09:18 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[05-Feb-2020 13:39:34 US/Pacific] PHP Fatal error:  Uncaught Error: Call to undefined method Stripe\Account::updateCapability() in /home/flyingch/public_html/attractivetackroom.com/override/classes/controller/FrontController.php:29
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(170): FrontController->init()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/override/classes/controller/FrontController.php on line 29
+[05-Feb-2020 22:40:31 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined method Stripe\Account::updateCapability() in /home/flyingch/public_html/attractivetackroom.com/override/classes/controller/FrontController.php:30
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(170): FrontController->init()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/override/classes/controller/FrontController.php on line 30
+[05-Feb-2020 16:55:34 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[05-Feb-2020 17:32:41 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[05-Feb-2020 20:28:15 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[06-Feb-2020 00:24:00 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[06-Feb-2020 01:14:45 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[06-Feb-2020 07:08:05 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[06-Feb-2020 11:03:01 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[07-Feb-2020 08:50:52 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[07-Feb-2020 10:42:43 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[07-Feb-2020 15:10:59 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/5358/1/1/1/21/53/a8/1a/wrt5e3dee83e668a5_30902930 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[07-Feb-2020 15:38:02 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[07-Feb-2020 16:04:40 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/5290/1/1/1/26/53/a8/1a/wrt5e3dfb183b0ed5_81144960 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[07-Feb-2020 16:25:01 US/Pacific] PHP Parse error:  syntax error, unexpected ')' in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/mptransaction.php on line 42
+[07-Feb-2020 16:31:20 US/Pacific] PHP Parse error:  syntax error, unexpected end of file in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/mptransaction.php on line 43
+[07-Feb-2020 16:31:22 US/Pacific] PHP Parse error:  syntax error, unexpected end of file in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/mptransaction.php on line 669
+[07-Feb-2020 16:52:26 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/5343/1/1/1/26/53/a8/1a/wrt5e3e064aef3939_02971572 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[07-Feb-2020 16:52:33 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/5327/1/1/1/26/53/a8/1a/wrt5e3e0651f01ca8_52389089 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[07-Feb-2020 16:52:37 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/2481/1/1/1/26/53/a8/1a/wrt5e3e065557ad25_25293721 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[07-Feb-2020 16:52:39 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/5140/1/1/1/26/53/a8/1a/wrt5e3e0657875712_90128780 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[07-Feb-2020 16:52:40 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/3309/1/1/1/26/53/a8/1a/wrt5e3e065824d745_57553184 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[07-Feb-2020 16:52:47 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/5135/1/1/1/26/53/a8/1a/wrt5e3e065f42f1e3_74926252 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[07-Feb-2020 16:52:51 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/5311/1/1/1/26/53/a8/1a/wrt5e3e0663ae5f07_01694059 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[07-Feb-2020 17:10:58 US/Pacific] PHP Fatal error:  Class 'FrontController' not found in /home/flyingch/public_html/attractivetackroom.com/classes/controller/ModuleFrontController.php on line 30
+[07-Feb-2020 17:12:52 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/4939/1/1/1/26/53/a8/1a/wrt5e3e0b14acc2e2_60008623 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[07-Feb-2020 21:31:54 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/5242/1/1/1/21/53/a8/1a/wrt5e3e47ca3aaf81_97079829 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[07-Feb-2020 23:17:16 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/5220/1/1/1/21/53/a8/1a/wrt5e3e607c554af7_18406451 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[08-Feb-2020 05:37:51 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[08-Feb-2020 07:26:05 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[08-Feb-2020 09:09:06 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[08-Feb-2020 09:09:17 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[08-Feb-2020 12:38:00 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[08-Feb-2020 13:26:33 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[08-Feb-2020 13:26:40 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[08-Feb-2020 13:26:50 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[08-Feb-2020 16:31:25 US/Pacific] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ')' in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/mporder.php on line 46
+[08-Feb-2020 16:39:02 US/Pacific] PHP Parse error:  syntax error, unexpected '$myOrder' (T_VARIABLE), expecting ',' or ')' in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/mporder.php on line 50
+[08-Feb-2020 17:37:29 US/Pacific] This PaymentIntent's amount could not be updated because it has a status of requires_capture. You may only update the amount of a PaymentIntent with one of the following statuses: requires_payment_method, requires_confirmation, requires_action.
+[08-Feb-2020 17:37:30 US/Pacific] This PaymentIntent's amount could not be updated because it has a status of requires_capture. You may only update the amount of a PaymentIntent with one of the following statuses: requires_payment_method, requires_confirmation, requires_action.
+[08-Feb-2020 17:37:38 US/Pacific] This PaymentIntent's amount could not be updated because it has a status of requires_capture. You may only update the amount of a PaymentIntent with one of the following statuses: requires_payment_method, requires_confirmation, requires_action.
+[08-Feb-2020 17:38:00 US/Pacific] This PaymentIntent's amount could not be updated because it has a status of requires_capture. You may only update the amount of a PaymentIntent with one of the following statuses: requires_payment_method, requires_confirmation, requires_action.
+[08-Feb-2020 17:38:11 US/Pacific] This PaymentIntent's amount could not be updated because it has a status of requires_capture. You may only update the amount of a PaymentIntent with one of the following statuses: requires_payment_method, requires_confirmation, requires_action.
+[08-Feb-2020 17:38:12 US/Pacific] This PaymentIntent's amount could not be updated because it has a status of requires_capture. You may only update the amount of a PaymentIntent with one of the following statuses: requires_payment_method, requires_confirmation, requires_action.
+[08-Feb-2020 18:27:16 US/Pacific] This PaymentIntent's amount could not be updated because it has a status of requires_capture. You may only update the amount of a PaymentIntent with one of the following statuses: requires_payment_method, requires_confirmation, requires_action.
+[08-Feb-2020 18:27:22 US/Pacific] This PaymentIntent's amount could not be updated because it has a status of requires_capture. You may only update the amount of a PaymentIntent with one of the following statuses: requires_payment_method, requires_confirmation, requires_action.
+[08-Feb-2020 18:27:29 US/Pacific] This PaymentIntent's amount could not be updated because it has a status of requires_capture. You may only update the amount of a PaymentIntent with one of the following statuses: requires_payment_method, requires_confirmation, requires_action.
+[08-Feb-2020 18:27:34 US/Pacific] This PaymentIntent's amount could not be updated because it has a status of requires_capture. You may only update the amount of a PaymentIntent with one of the following statuses: requires_payment_method, requires_confirmation, requires_action.
+[08-Feb-2020 18:27:35 US/Pacific] This PaymentIntent's amount could not be updated because it has a status of requires_capture. You may only update the amount of a PaymentIntent with one of the following statuses: requires_payment_method, requires_confirmation, requires_action.
+[08-Feb-2020 19:10:55 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[09-Feb-2020 02:41:00 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/5302/1/1/1/21/53/a8/1a/wrt5e3fe1bc573116_89640362 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[09-Feb-2020 02:43:43 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/5282/1/1/1/21/53/a8/1a/wrt5e3fe25f41d567_52553800 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[09-Feb-2020 02:43:43 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/5289/1/1/1/21/53/a8/1a/wrt5e3fe25f421581_25173819 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[09-Feb-2020 02:43:44 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/5286/1/1/1/21/53/a8/1a/wrt5e3fe2600c1698_05165942 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[09-Feb-2020 08:20:10 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[09-Feb-2020 10:27:48 US/Pacific] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 1017
+[09-Feb-2020 10:27:50 US/Pacific] PHP Parse error:  syntax error, unexpected end of file in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 1649
+[09-Feb-2020 10:27:51 US/Pacific] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 1930
+[09-Feb-2020 10:27:52 US/Pacific] PHP Parse error:  syntax error, unexpected end of file in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 2066
+[09-Feb-2020 10:27:53 US/Pacific] PHP Parse error:  syntax error, unexpected end of file in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 2520
+[09-Feb-2020 10:27:54 US/Pacific] PHP Parse error:  syntax error, unexpected end of file in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 2985
+[09-Feb-2020 10:27:56 US/Pacific] PHP Parse error:  syntax error, unexpected ''g_op2_im_background_image_fie' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 4132
+[09-Feb-2020 10:27:58 US/Pacific] PHP Parse error:  syntax error, unexpected end of file in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 5159
+[09-Feb-2020 10:27:58 US/Pacific] PHP Parse error:  syntax error, unexpected end of file in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 5301
+[09-Feb-2020 10:28:01 US/Pacific] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ')' in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 6482
+[09-Feb-2020 10:28:03 US/Pacific] PHP Parse error:  syntax error, unexpected end of file in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 8556
+[09-Feb-2020 10:28:03 US/Pacific] PHP Parse error:  syntax error, unexpected end of file in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 8556
+[09-Feb-2020 10:28:05 US/Pacific] PHP Parse error:  syntax error, unexpected ''</label>' (T_ENCAPSED_AND_WHITESPACE) in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 9953
+[09-Feb-2020 10:28:05 US/Pacific] PHP Parse error:  syntax error, unexpected '' />' (T_ENCAPSED_AND_WHITESPACE) in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 10503
+[09-Feb-2020 10:28:07 US/Pacific] PHP Parse error:  syntax error, unexpected end of file in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 11328
+[09-Feb-2020 10:28:09 US/Pacific] PHP Parse error:  syntax error, unexpected ''</label>' (T_ENCAPSED_AND_WHITESPACE) in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 13355
+[09-Feb-2020 10:28:11 US/Pacific] PHP Parse error:  syntax error, unexpected ''" />' (T_ENCAPSED_AND_WHITESPACE) in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 15272
+[09-Feb-2020 10:28:13 US/Pacific] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE) in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 21894
+[09-Feb-2020 10:28:15 US/Pacific] PHP Parse error:  syntax error, unexpected ''px;' (T_ENCAPSED_AND_WHITESPACE) in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 22904
+[09-Feb-2020 10:28:17 US/Pacific] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE) in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 24960
+[09-Feb-2020 10:28:32 US/Pacific] PHP Parse error:  syntax error, unexpected ''Top menu ' (T_ENCAPSED_AND_WHITESPACE) in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 8610
+[09-Feb-2020 10:28:34 US/Pacific] PHP Parse error:  syntax error, unexpected ''</label>' (T_ENCAPSED_AND_WHITESPACE) in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 14558
+[09-Feb-2020 10:28:35 US/Pacific] PHP Parse error:  syntax error, unexpected ''" />' (T_ENCAPSED_AND_WHITESPACE) in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 14868
+[09-Feb-2020 10:28:36 US/Pacific] PHP Parse error:  syntax error, unexpected ''RTC_MA_LO' (T_ENCAPSED_AND_WHITESPACE) in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 15323
+[09-Feb-2020 10:28:37 US/Pacific] PHP Parse error:  syntax error, unexpected ''" />' (T_ENCAPSED_AND_WHITESPACE) in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 15946
+[09-Feb-2020 10:28:38 US/Pacific] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE) in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 17276
+[09-Feb-2020 10:28:41 US/Pacific] PHP Parse error:  syntax error, unexpected ''px;' (T_ENCAPSED_AND_WHITESPACE) in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 22904
+[09-Feb-2020 10:28:43 US/Pacific] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE) in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 26203
+[09-Feb-2020 10:28:46 US/Pacific] PHP Parse error:  syntax error, unexpected end of file in /home/flyingch/public_html/attractivetackroom.com/modules/roythemescustomizer/roythemescustomizer.php on line 26879
+[09-Feb-2020 13:38:04 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/3202/1/1/1/21/53/a8/1a/wrt5e407bbc52c973_14411878 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[09-Feb-2020 15:23:56 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/4307/1/1/1/21/53/a8/1a/wrt5e40948c301e67_15209460 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[10-Feb-2020 00:31:32 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[10-Feb-2020 08:33:23 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[10-Feb-2020 08:41:10 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[10-Feb-2020 09:09:25 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: Missing template name <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_template.php on line 678
+[10-Feb-2020 09:09:27 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: Missing template name <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_template.php on line 678
+[10-Feb-2020 10:49:32 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: Missing template name <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_template.php on line 678
+[10-Feb-2020 15:04:08 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[10-Feb-2020 15:04:32 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[10-Feb-2020 15:04:48 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[10-Feb-2020 15:05:14 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[10-Feb-2020 15:32:21 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[10-Feb-2020 15:35:03 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[10-Feb-2020 16:37:07 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[10-Feb-2020 18:02:38 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[10-Feb-2020 18:02:47 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[10-Feb-2020 18:03:16 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[10-Feb-2020 18:54:50 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[10-Feb-2020 19:27:05 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[10-Feb-2020 19:59:32 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[10-Feb-2020 20:22:44 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[10-Feb-2020 20:36:43 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[11-Feb-2020 05:17:34 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/4943/1/1/1/26/53/a8/1a/wrt5e42a96eef2d03_41558165 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[11-Feb-2020 05:17:50 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/1625/1/1/1/26/53/a8/1a/wrt5e42a97e90e9d2_11571767 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[11-Feb-2020 07:40:27 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[11-Feb-2020 08:29:48 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[11-Feb-2020 08:30:04 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[11-Feb-2020 09:14:51 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[11-Feb-2020 10:11:56 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[11-Feb-2020 10:11:57 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[11-Feb-2020 14:12:29 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[11-Feb-2020 14:12:37 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/921/1/3/3/21/53/a8/1a/wrt5e4326d511bf11_49748918 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[11-Feb-2020 18:36:38 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[11-Feb-2020 22:08:18 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[12-Feb-2020 02:03:44 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/override/classes/Dispatcher.php(36): DispatcherCore->dispatch()
+#3 /home/flyingch/public_html/attractivetackroom.com/index.php(28): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[12-Feb-2020 17:02:13 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: Missing template name <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_template.php on line 678
+[12-Feb-2020 18:11:48 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: Missing template name <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_template.php on line 678
+[12-Feb-2020 18:13:23 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: Missing template name <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_template.php on line 678
+[12-Feb-2020 18:13:50 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: Missing template name <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_template.php on line 678
+[12-Feb-2020 18:13:50 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: Missing template name <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_template.php on line 678
+[12-Feb-2020 18:36:41 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: Missing template name <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_template.php on line 678
+[12-Feb-2020 18:36:44 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: Missing template name <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_template.php on line 678
+[12-Feb-2020 18:36:46 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: Missing template name <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_template.php on line 678
+[12-Feb-2020 18:36:51 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: Missing template name <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_template.php on line 678
+[12-Feb-2020 18:53:11 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: Missing template name <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_template.php on line 678
+[12-Feb-2020 20:06:26 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: Missing template name <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_template.php on line 678
+[12-Feb-2020 20:06:41 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: Missing template name <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_template.php on line 678
+[13-Feb-2020 08:31:20 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/index.php(28): DispatcherCore->dispatch()
+#3 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[13-Feb-2020 11:07:08 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/1640/1/1/1/21/53/a8/1a/wrt5e459e5ca6ee52_52856360 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[13-Feb-2020 13:01:38 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/1015/1/1/1/21/53/a8/1a/wrt5e45b932d7b912_38278446 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[13-Feb-2020 13:52:06 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/4463/1/1/1/26/53/a8/1a/wrt5e45c50660d609_41424941 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[13-Feb-2020 14:53:31 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/index.php(28): DispatcherCore->dispatch()
+#3 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[13-Feb-2020 18:01:17 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/5457/1/1/1/26/53/a8/1a/wrt5e45ff6d565dd8_39745861 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[13-Feb-2020 19:50:37 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/4471/1/1/1/21/53/a8/1a/wrt5e46190db17257_02276240 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[13-Feb-2020 21:29:20 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/index.php(28): DispatcherCore->dispatch()
+#3 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[13-Feb-2020 23:27:19 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/2842/1/1/1/21/53/a8/1a/wrt5e464bd71ec917_72291049 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[14-Feb-2020 10:19:59 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/5432/1/1/1/21/53/a8/1a/wrt5e46e4cfd8e472_57170073 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[14-Feb-2020 14:12:53 US/Pacific] PHP Fatal error:  Uncaught Error: Call to undefined function AutoReviewDelivered() in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/reminder.php:51
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(189): MarketplaceReminderModuleFrontController->initContent()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/index.php(28): DispatcherCore->dispatch()
+#3 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/reminder.php on line 51
+[14-Feb-2020 15:34:40 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/index.php(28): DispatcherCore->dispatch()
+#3 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[14-Feb-2020 17:37:15 US/Pacific] PHP Parse error:  syntax error, unexpected ';' in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/reminder.php on line 142
+[14-Feb-2020 17:37:17 US/Pacific] PHP Parse error:  syntax error, unexpected ';' in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/reminder.php on line 142
+[14-Feb-2020 18:02:48 US/Pacific] PHP Parse error:  syntax error, unexpected 'self' (T_STRING) in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/reminder.php on line 158
+[14-Feb-2020 18:02:50 US/Pacific] PHP Parse error:  syntax error, unexpected 'self' (T_STRING) in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/reminder.php on line 158
+[14-Feb-2020 18:04:12 US/Pacific] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/reminder.php on line 154
+[14-Feb-2020 18:04:14 US/Pacific] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/reminder.php on line 154
+[14-Feb-2020 18:05:43 US/Pacific] PHP Parse error:  syntax error, unexpected ')' in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/reminder.php on line 154
+[14-Feb-2020 18:05:44 US/Pacific] PHP Parse error:  syntax error, unexpected ')' in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/reminder.php on line 154
+[14-Feb-2020 18:05:50 US/Pacific] PHP Parse error:  syntax error, unexpected ')' in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/reminder.php on line 154
+[14-Feb-2020 19:10:31 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/index.php(28): DispatcherCore->dispatch()
+#3 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[14-Feb-2020 19:10:31 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/index.php(28): DispatcherCore->dispatch()
+#3 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[14-Feb-2020 22:37:20 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/index.php(28): DispatcherCore->dispatch()
+#3 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[15-Feb-2020 02:34:37 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/index.php(28): DispatcherCore->dispatch()
+#3 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[15-Feb-2020 02:42:17 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/index.php(28): DispatcherCore->dispatch()
+#3 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[15-Feb-2020 09:55:24 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/5457/1/1/1/21/53/a8/1a/wrt5e48308ced0562_37281736 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[15-Feb-2020 12:07:05 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/4273/1/1/1/21/53/a8/1a/wrt5e484f69cd3875_48593239 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[15-Feb-2020 13:12:04 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/2413/1/1/1/21/53/a8/1a/wrt5e485ea4d53685_69839589 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[15-Feb-2020 14:04:48 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/3794/1/1/1/21/53/a8/1a/wrt5e486b006845d2_30253291 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[15-Feb-2020 18:29:26 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/index.php(28): DispatcherCore->dispatch()
+#3 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[15-Feb-2020 19:04:38 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/5290/1/1/1/21/53/a8/1a/wrt5e48b146244d97_59109461 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[15-Feb-2020 19:04:51 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/5471/1/1/1/26/53/a8/1a/wrt5e48b153a65b23_96272605 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[16-Feb-2020 01:37:57 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/5358/1/1/1/21/53/a8/1a/wrt5e490d75b7d206_77679174 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[16-Feb-2020 01:46:26 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/index.php(28): DispatcherCore->dispatch()
+#3 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[16-Feb-2020 03:13:26 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: Missing template name <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_template.php on line 678
+[16-Feb-2020 04:48:31 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/index.php(28): DispatcherCore->dispatch()
+#3 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[16-Feb-2020 06:13:24 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/index.php(28): DispatcherCore->dispatch()
+#3 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[16-Feb-2020 09:13:45 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/index.php(28): DispatcherCore->dispatch()
+#3 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[16-Feb-2020 14:47:26 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/index.php(28): DispatcherCore->dispatch()
+#3 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[16-Feb-2020 14:53:32 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/index.php(28): DispatcherCore->dispatch()
+#3 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[16-Feb-2020 16:08:03 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/4898/1/1/1/21/53/a8/1a/wrt5e49d96397dca7_73888736 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[16-Feb-2020 17:19:27 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/4773/1/1/1/21/53/a8/1a/wrt5e49ea1ff1f981_66067394 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[17-Feb-2020 04:47:05 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/3324/1/1/1/26/53/a8/1a/wrt5e4a8b4938eef2_97310743 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[17-Feb-2020 06:44:16 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/index.php(28): DispatcherCore->dispatch()
+#3 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[17-Feb-2020 07:36:15 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/index.php(28): DispatcherCore->dispatch()
+#3 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[17-Feb-2020 07:43:30 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/index.php(28): DispatcherCore->dispatch()
+#3 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280
+[17-Feb-2020 08:47:38 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/5487/1/1/1/21/53/a8/1a/wrt5e4ac3aa264eb3_42295855 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[17-Feb-2020 08:47:38 US/Pacific] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/flyingch/public_html/attractivetackroom.com/cache/smarty/cache/socialsharing_header/5487/1/1/1/21/53/a8/1a/wrt5e4ac3aa264e41_14920206 <-- 
+  thrown in /home/flyingch/public_html/attractivetackroom.com/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
+[17-Feb-2020 09:54:21 US/Pacific] PHP Fatal error:  Uncaught Error: Class 'ProductCommentProChatModel' not found in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php:280
+Stack trace:
+#0 /home/flyingch/public_html/attractivetackroom.com/classes/controller/Controller.php(174): MarketplacePp_ChatModuleFrontController->setMedia()
+#1 /home/flyingch/public_html/attractivetackroom.com/classes/Dispatcher.php(367): ControllerCore->run()
+#2 /home/flyingch/public_html/attractivetackroom.com/index.php(28): DispatcherCore->dispatch()
+#3 {main}
+  thrown in /home/flyingch/public_html/attractivetackroom.com/modules/marketplace/controllers/front/pp_chat.php on line 280

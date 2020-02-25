@@ -1,0 +1,53 @@
+
+            /**
+             * Finalmenu
+             * @author     Matej Berka
+             * @copyright  2014 Matej
+             */
+        
+            /* Planetes */
+            .top-link-wrapper {
+                padding:21px 22px;
+                cursor:pointer;
+            }
+
+            #FINALmenu #FINALmenu-desktop-nav > li {
+                margin-top:-2px;
+                border-top:2px solid #ededed;
+            }
+            #FINALmenu #FINALmenu-desktop-nav > li:hover {
+                border-top-color:#ff607c;
+            }
+
+            #FINALmenu #FINALmenu-desktop-nav,
+            #FINALmenu-vertical #FINALmenu-vertical-nav,
+            #FINALmenu-mobile-nav li,
+            #FINALmenu-vertical #FINALmenu-vertical-nav > li,
+            #FINALmenu #FINALmenu-desktop-nav > li {
+                -o-transition: color .1s ease-out, all .1s ease-in;
+                -ms-transition: color .1s ease-out, all .1s ease-in;
+                -moz-transition: color .1s ease-out, all .1s ease-in;
+                -webkit-transition: color .1s ease-out, all .1s ease-in;
+                transition: color .1s ease-out, all .1s ease-in;
+                background:#ffffff;
+            }
+            #FINALmenu .show-items-icon {
+                font-size: 10px;
+                line-height: 18px;
+            }
+            #FINALmenu .top-link-wrapper i {
+                 color: #999999;
+            }
+            body #FINALmenu #FINALmenu-desktop-nav > li:hover .top-link-wrapper .tab-note, .tab-note {
+                color: #ffffff !important;
+            }
+
+            #FINALmenu.sticky_menu {
+                -moz-box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+                -webkit-box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+                box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            }
+
+            #FINALmenu #FINALmenu-desktop-nav > li:first-child .top-link-wrapper {
+                padding:21px 20px 21px 11px;
+            }

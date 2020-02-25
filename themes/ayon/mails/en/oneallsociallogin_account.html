@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Message from {shop_name}</title>
+        <style>	@media only screen and (max-width: 300px){
+            body {
+                width:218px !important;
+                margin:auto !important;
+            }
+            .table {width:195px !important;margin:auto !important;}
+            .logo, .titleblock, .linkbelow, .box, .footer, .space_footer{width:auto !important;display: block !important;}
+            span.title{font-size:20px !important;line-height: 23px !important}
+            span.subtitle{font-size: 14px !important;line-height: 18px !important;padding-top:10px !important;display:block !important;}
+            td.box p{font-size: 12px !important;font-weight: bold !important;}
+            .table-recap table, .table-recap thead, .table-recap tbody, .table-recap th, .table-recap td, .table-recap tr {
+                display: block !important;
+            }
+            .table-recap{width: 200px!important;}
+            .table-recap tr td, .conf_body td{text-align:center !important;}
+            .address{display: block !important;margin-bottom: 10px !important;}
+            .space_address{display: none !important;}
+        }
+        @media only screen and (min-width: 301px) and (max-width: 500px) {
+            body {width:308px!important;margin:auto!important;}
+            .table {width:285px!important;margin:auto!important;}
+            .logo, .titleblock, .linkbelow, .box, .footer, .space_footer{width:auto!important;display: block!important;}
+            .table-recap table, .table-recap thead, .table-recap tbody, .table-recap th, .table-recap td, .table-recap tr {
+                display: block !important;
+            }
+            .table-recap{width: 295px !important;}
+            .table-recap tr td, .conf_body td{text-align:center !important;}
+
+        }
+        @media only screen and (min-width: 501px) and (max-width: 768px) {
+            body {width:478px!important;margin:auto!important;}
+            .table {width:450px!important;margin:auto!important;}
+            .logo, .titleblock, .linkbelow, .box, .footer, .space_footer{width:auto!important;display: block!important;}
+        }
+        @media only screen and (max-device-width: 480px) {
+            body {width:308px!important;margin:auto!important;}
+            .table {width:285px;margin:auto!important;}
+            .logo, .titleblock, .linkbelow, .box, .footer, .space_footer{width:auto!important;display: block!important;}
+
+            .table-recap{width: 295px!important;}
+            .table-recap tr td, .conf_body td{text-align:center!important;}
+            .address{display: block !important;margin-bottom: 10px !important;}
+            .space_address{display: none !important;}
+        }
+        </style>
+    </head>
+
+    <body style="background-color:#f2f2f2;width:650px;padding:30px 0;font-family:Open-sans, sans-serif;color:#555454;font-size:13px;line-height:18px;margin:auto">
+    <table class="table table-mail" style="background-color:#fff;width:100%;margin-top:30px;border-spacing:0;">
+        <tr>
+            <td align="center" style="border:none;padding:0">
+                <table class="table" style="width:100%;background-color:#fff;border-spacing:0;">
+                    <tr>
+                        <td align="center" class="logo" style="padding:14px 0;background-color:#323232;color:#fff">
+                            <a title="{shop_name}" href="{shop_url}" style="color:#337ff1">
+                                <img src="{shop_logo}" alt="{shop_name}" />
+                            </a>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td align="center" class="titleblock" style="border-top:1px solid #555;border-bottom:1px solid #eeeeee; padding:7px 0;background-color:#323232;color:#fff">
+                            <span class="title" style="font-weight:400;font-size:16px;line-height:30px">Hi, {firstname} {lastname}</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="space_footer" style="padding:0!important">&nbsp;</td>
+                    </tr>
+				<tr>
+                    <td class="box" colspan="3" style="background-color:#fafafa;border-top:1px solid #e9e9e9!important;border-bottom:1px solid #e9e9e9!important;border-left:none;border-right:none;padding:26px 30px 36px!important">
+                        <table class="table" style="width:100%">
+                            <tr>
+                                <td width="10" style="padding:7px 0">&nbsp;</td>
+                                <td style="padding:7px 0">
+                                        <p data-html-only="1" style="margin:3px 0 26px;text-align:center;text-transform:uppercase;font-weight:600;font-size:16px;border-bottom:1px solid #e9e9e9!important;padding-bottom:24px">
+						Your {shop_name} login details </p>
+                                </td>
+                                <td width="10" style="padding:7px 0">&nbsp;</td>
+                            </tr>
+                        </table>
+
+                        <strong>Thank you for creating a customer account at {shop_name}.</strong><br /> <br />
+                        You can login on our shop by using your social network account:<br /> <br />
+                        Account:  <strong><span style="color: {color">{identity_provider}</span></strong> <br /><br /><br />
+                        Alternatively you can also use this login details:<br /> <br />
+                        E-mail address: <strong><span style="color: {color">{email}</span></strong> <br />
+                        Password: <strong>{passwd}</strong>
+                    </td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="left">
+					</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+                    <td class="linkbelow" style="padding:0 20px 20px">
+                        <strong>Important Security Tips:</strong>
+						<ol>
+							<li>Always keep your account details safe.</li>
+							<li>Never disclose your login details to anyone.</li>
+							<li>Change your password regularly.</li>
+							<li>Should you suspect someone is using your account illegally, please notify us immediately.</li>
+						</ol></td>
+				</tr>
+				<tr>
+                    <td class="linkbelow" style="padding:0 20px 20px">
+						You can now place orders on our shop: <a href="{shop_url}">{shop_name}</a>.
+					</td>
+				</tr>
+                    <tr>
+                        <td class="space_footer" style="padding:0!important;border:none">&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td class="footer" style="background-color:#323232;border:none;padding:30px;text-align:center">
+                            <span><a href="{my_account_url}" style="color:#ffffff">My account</a></span> <span style="color:#777;">|</span>
+                            <span><a href="{shop_url}" style="color:#ffffff">{shop_name}</a></span>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    </body>
+</html>

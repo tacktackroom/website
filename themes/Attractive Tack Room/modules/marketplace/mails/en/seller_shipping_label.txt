@@ -1,0 +1,47 @@
+
+[{shop_url}] 
+
+Congrats on the sale! It's time to ship your gear.
+
+Print your pre-paid shipping label and ship your item.
+
+Swap ID #: {reference_number}
+{product_image}   {product_name}
+
+Message @{recipient_name}
+
+Print Label
+
+
+Hey @{customer_name},
+
+@{recipient_name}'s payment has been added to your pending balance, and you'll be able to cash out as soon as your item is delivered and accepted.
+
+What's Next?
+
+1. Be sure to message the buyer
+ Tell them when you plan to ship, and a thank you goes a long way.
+
+2. Print the pre-paid shipping label
+The buyer paid for shipping during the purchase.
+
+3. Pack it up
+You can use any box you like, but USPS Priorty Mail provides free shipping supplies at any post office or online.
+Learn more about shipping here
+
+4. Send it on its way
+Arrange for your carrier to pick it up or take it to a drop location. Shoot the buyer a message to let them know  it's on the way!
+
+5. Get paid
+Your funds are currently in your pending balance, once the item is delivered and accepted, you'll be able to cash out.
+{my_account_url} View Seller Dashboard
+
+This message was sent to {customer_email}
+
+You are receiving this email because you registered for an account at Tacktackroom.
+
+Copyright © {current_year} Tacktackroom, Inc.
+
+Our address here
+
+Privacy | Terms | Help

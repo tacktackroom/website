@@ -1,0 +1,11 @@
+Hello {customer_name}
+
+New Product added on {mpshop_name}
+
+{product_name}
+
+{product_price}
+
+Click here to check : {product_name} [{product_link}]
+
+
